@@ -12,3 +12,6 @@ git checkout master
 git fetch server
 git merge server/master
 git push origin
+
+
+дальше просто тесты,2этап
