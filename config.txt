@@ -14,4 +14,4 @@ git merge server/master
 git push origin
 
 
-дальше просто тесты
+дальше просто тесты,2этап
