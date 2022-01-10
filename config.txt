@@ -1,5 +1,5 @@
-sdfsdfsdffdsfsdfsdfsdfsdfdfsdfdsfdsfsdfgsdfgsdfsdfsdfsdfdfdfsdfsdf
-sdfsdfsdf
-fdfgdfg
-dfsdfsdf
-tgfdgsfg
+имеется сервер (keqpup/testgit.git) делаем fork в github у клиента (ivan-titan13/testgit.git) - скачиваем fork на клиента  
+
+git clone https://github.com/ivan-titan13/testgit.git
+
+1)пишем изменения на сервере (keqpup) коммитим его, и пытаемся забрать на клиента
