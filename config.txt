@@ -3,3 +3,12 @@
 git clone https://github.com/ivan-titan13/testgit.git
 
 1)пишем изменения на сервере (keqpup) коммитим его, и пытаемся забрать на клиента
+
+2)получили изменения
+
+testgit(master)
+git remote add server https://github.com/keqpup232/testgit.git
+git checkout master
+git fetch server
+git merge server/master
+git push origin
