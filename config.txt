@@ -12,5 +12,3 @@ git checkout master
 git fetch server
 git merge server/master
 git push origin
-
-
